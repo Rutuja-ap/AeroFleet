@@ -1,0 +1,3 @@
+order_id,drone,destination,route,payload_kg,eta_sec,energy_wh,status
+2,-,Hotel,"",4,0,0,UNREACHABLE
+1,-,Hotel,"",3,0,0,UNREACHABLE
